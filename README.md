@@ -15,7 +15,7 @@ int main()
     log(arr[2]);
 
     let person = {
-        {"name", "Liam"},
+        {"name", "Amelia"},
         {"age", 15}
     };
     log(person["name"]);
