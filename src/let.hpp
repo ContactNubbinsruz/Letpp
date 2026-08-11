@@ -102,7 +102,7 @@ public:
     static Value buildFromList(std::initializer_list<let> v)
     {
         // "object" pattern: every element is a 2-item array whose
-        // first item is a string, e.g. { {"name", "liam"}, {"age", 15} }
+        // first item is a string, e.g. { {"name", "Amelia"}, {"age", 15} }
 
         object result;
 
